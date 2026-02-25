@@ -54,7 +54,7 @@ This dashboard provides a centralized view to support decision-making.
 ## 📂 Project Files
 
 - `Coffee Shop Sales.xlsx` – Main Excel dashboard file  
-- `Screenshot.png` – Dashboard preview  
+- `Coffee_Shop_Sales.png` – Dashboard preview  
 
 ---
 
